@@ -1,4 +1,6 @@
-# naukri.com-Scraper
-<strong>Shitty scraper for a shitty site</strong> <em>(Explanation: It was a painful experience tring to scrape)</em>
+# Scraper for naukri.com
+<strong>Shitty scraper for a shitty site</strong> 
+<br>
+<em>(It was a painful experience tring to scrape)</em>
 
-Tools used: Beautifulsoup, Playwright
+<h3>Tools used: Beautifulsoup, Playwright</h3>
