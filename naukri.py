@@ -7,7 +7,7 @@ def main():
         browser= p.firefox.launch(headless=False)
         page=browser.new_page()
         record= {'Title': [], 'Company': [], 'Years': [], 'Stars': [], 'Reviews': [], 'Salary': [], 'Location': [], 'Skills': []}
-        for i in range(1,11):
+        for i in range(1,5):
             page.goto(f'https://www.naukri.com/it-jobs-{i}', timeout=0)
             meat= "//div[@class='list']"
             page.wait_for_selector(meat, timeout=0)
