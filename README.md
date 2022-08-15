@@ -3,4 +3,4 @@
 <br>
 <em>(It was a painful experience trying to scrape this site)</em>
 
-<h3>Tools used: Beautifulsoup, Playwright</h3>
+<h3>Tools used: BeautifulSoup, Playwright</h3>
